@@ -5,7 +5,7 @@
 * [x] Types of Machine Learning: Supervised, Unsupervised, Reinforcement
 * [x] Research vs Industry ML: Goals, Standards, and Benchmarks
 * [x] Reading ML Research Papers (structure, claims, methods)
-* [ ] Reproducibility & Open Science in ML Research
+* [x] Reproducibility & Open Science in ML Research
 
 ---
 
