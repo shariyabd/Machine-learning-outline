@@ -2,7 +2,7 @@
 ## **Module 1: Foundations of Machine Learning Research**
 
 * [x] AI vs ML vs Deep Learning – Definitions & Scope
-* [ ] Types of Machine Learning: Supervised, Unsupervised, Reinforcement
+* [x] Types of Machine Learning: Supervised, Unsupervised, Reinforcement
 * [ ] Research vs Industry ML: Goals, Standards, and Benchmarks
 * [ ] Reading ML Research Papers (structure, claims, methods)
 * [ ] Reproducibility & Open Science in ML Research
