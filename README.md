@@ -4,7 +4,7 @@
 * [x] AI vs ML vs Deep Learning – Definitions & Scope
 * [x] Types of Machine Learning: Supervised, Unsupervised, Reinforcement
 * [x] Research vs Industry ML: Goals, Standards, and Benchmarks
-* [ ] Reading ML Research Papers (structure, claims, methods)
+* [x] Reading ML Research Papers (structure, claims, methods)
 * [ ] Reproducibility & Open Science in ML Research
 
 ---
