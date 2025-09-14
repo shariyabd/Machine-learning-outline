@@ -12,7 +12,7 @@
 ## **Module 2: Python & Tools for Research**
 
 * [x] Setting up Research Environments (Colab, Jupyter, Reproducible Envs)
-* [ ] Python Essentials (control flow, functions, objects)
+* [x] Python Essentials (control flow, functions, objects)
 * [ ] Data Structures (List, Tuple, Dict, Set)
 * [ ] NumPy for Numerical Computing
 * [ ] Pandas for Data Handling
