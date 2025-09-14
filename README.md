@@ -13,7 +13,7 @@
 
 * [x] Setting up Research Environments (Colab, Jupyter, Reproducible Envs)
 * [x] Python Essentials (control flow, functions, objects)
-* [ ] Data Structures (List, Tuple, Dict, Set)
+* [x] Data Structures (List, Tuple, Dict, Set)
 * [ ] NumPy for Numerical Computing
 * [ ] Pandas for Data Handling
 * [ ] Matplotlib/Seaborn for Visualization
