@@ -14,7 +14,7 @@
 * [x] Setting up Research Environments (Colab, Jupyter, Reproducible Envs)
 * [x] Python Essentials (control flow, functions, objects)
 * [x] Data Structures (List, Tuple, Dict, Set)
-* [ ] NumPy for Numerical Computing
+* [x] NumPy for Numerical Computing
 * [ ] Pandas for Data Handling
 * [ ] Matplotlib/Seaborn for Visualization
 * [ ] Scikit-learn for Prototyping
