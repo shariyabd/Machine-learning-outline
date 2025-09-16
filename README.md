@@ -15,7 +15,7 @@
 * [x] Python Essentials (control flow, functions, objects)
 * [x] Data Structures (List, Tuple, Dict, Set)
 * [x] NumPy for Numerical Computing
-* [ ] Pandas for Data Handling
+* [x] Pandas for Data Handling
 * [ ] Matplotlib/Seaborn for Visualization
 * [ ] Scikit-learn for Prototyping
 
