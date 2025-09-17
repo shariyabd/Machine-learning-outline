@@ -16,7 +16,7 @@
 * [x] Data Structures (List, Tuple, Dict, Set)
 * [x] NumPy for Numerical Computing
 * [x] Pandas for Data Handling
-* [ ] Matplotlib/Seaborn for Visualization
+* [x] Matplotlib/Seaborn for Visualization
 * [ ] Scikit-learn for Prototyping
 
 ---
